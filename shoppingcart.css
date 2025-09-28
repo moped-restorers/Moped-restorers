@@ -1,0 +1,40 @@
+.overview-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 20px;
+
+  padding: 50px;
+}
+
+.overview-products {
+  flex: 2;
+  
+  height: 400px;
+}
+
+.overview-numbers {
+  flex: 1;
+
+
+  height: 400px;
+  width: 500px;
+}
+
+.overview-products,
+.overview-numbers {
+  background-color: #ecddb5;
+  border-radius: 30px;
+  border-color: #c9bd9c;
+  border-width: 7px;
+  border-style: solid;
+}
+
+.overview-products p,
+.overview-numbers p {
+  color: #353127;
+
+  padding: 20px;
+  font-size: 20px;
+}
