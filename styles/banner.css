@@ -1,0 +1,23 @@
+.banner img {
+  border-bottom: solid;
+  border-color: #353127 ;
+  border-width: 10px;
+  display: block;
+
+  height: auto;
+  max-width: 100%;
+  
+  padding-top: 200px;
+  position: relative;
+}
+
+.banner {
+  text-align: left;
+  position: relative;
+  display: inline-block;
+
+}
+
+
+
+
