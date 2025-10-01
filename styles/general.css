@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  
+  
+  background-color: #ecddb5;
+  
+  min-width: 500px;
+}
+
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  color: #353127;
+  font-weight: 900;
+  font-size: 65px;
+  font-style: italic;
+  margin-left: 20px;
+}
